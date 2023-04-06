@@ -62,7 +62,7 @@ class ViewController: UIViewController {
             tinh(phepTinh: phepTinh)
             soThuNhatDangChuoi = ""
             soThuHaiDangChuoi = ""
-        }/Users/thanhdat/Downloads/AppMaytinh
+        }
         
         func tinh(phepTinh: String){
             if phepTinh == "+" {
